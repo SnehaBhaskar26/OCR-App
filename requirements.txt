@@ -1,1 +1,6 @@
+Pillow==10.4.0
+pytesseract==0.3.13
+streamlit==1.38.0
+torch==2.4.1
+transformers==4.46.0.dev0
 
