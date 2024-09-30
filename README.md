@@ -132,6 +132,11 @@ This will start the application, and you can access it on your local browser at 
 ![image](https://github.com/user-attachments/assets/2129a50b-061e-4516-980a-ff9a7cef1475)
 
 
+If the keyword is not found:
+
+
+
+![image](https://github.com/user-attachments/assets/c42bbd39-1bef-4a5b-9a45-ef786e602b3c)
 
    
 
