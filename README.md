@@ -8,7 +8,7 @@
 
 Click the image below to watch the demo video:
 
-[![Watch the Demo](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*EVqdhNOB55c_GT95)]
+![Watch the Demo](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*EVqdhNOB55c_GT95)
 
 Or click [here](https://drive.google.com/file/d/1XfM9SymUAko0jH6-DdHwwzgHrWMOSXVr/view?usp=sharing) to watch the demo directly.
 
