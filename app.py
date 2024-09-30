@@ -22,7 +22,7 @@ def load_model():
 
 # Streamlit app
 def main():
-    st.title("Multilingual Image-to-Text & Query Processing")
+    st.title("Optical Character Recognition (OCR) Appilication")
 
     uploaded_image = st.file_uploader("Upload an Image", type=["jpg", "jpeg", "png"])
     if uploaded_image:
