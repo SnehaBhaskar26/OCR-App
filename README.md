@@ -8,7 +8,7 @@
 
 Click the image below to watch the demo video:
 
-[![Watch the Demo](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*EVqdhNOB55c_GT95)](https://github.com/SnehaBhaskar26/OCR-App/blob/main/streamlit-app-2024-09-30-10-09-09.webm)
+[![Watch the Demo](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*EVqdhNOB55c_GT95)]
 
 Or click [here](https://drive.google.com/file/d/1XfM9SymUAko0jH6-DdHwwzgHrWMOSXVr/view?usp=sharing) to watch the demo directly.
 
@@ -161,9 +161,9 @@ After deployment, your app will be accessible via a public URL, which you can sh
 If you have any questions or would like to get in touch, feel free to contact me:
 
 - **Name**: Sneha Bhaskar
-- **Email**: snehabhaskar@example.com
-- **LinkedIn**: [Sneha Bhaskar](https://www.linkedin.com/in/snehabhaskar)
-- **GitHub**: [Sneha Bhaskar](https://github.com/SnehaBhaskar26)
+- **Email**: bhaskarsneha2923@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/snehabhaskar]
+- **GitHub**: [https://github.com/SnehaBhaskar26]
 
 
 
